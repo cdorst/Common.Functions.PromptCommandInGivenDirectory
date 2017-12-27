@@ -13,4 +13,8 @@
     <Version>1.0.0</Version>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CDorst.Common.Functions.PromptCommand" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
